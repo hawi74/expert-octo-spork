@@ -1,11 +1,12 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: Componenttt
 metadata:
   name: expert-octo-spork
   annotations:
     github.com/project-slug: hawi74/expert-octo-spork
     backstage.io/adr-location: adrs/
-# spec:
+spec:
+  owner: hawi74
   type: other
   lifecycle: unknown
-  owner: hawi74
+
