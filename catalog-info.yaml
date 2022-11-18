@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: Service
+kind: Component
 metadata:
   name: expert-octo-spork
   annotations:
@@ -7,6 +7,6 @@ metadata:
     backstage.io/adr-location: adrs/
 spec:
   owner: hawi74
-  type: other
+  type: service
   lifecycle: unknown
 
