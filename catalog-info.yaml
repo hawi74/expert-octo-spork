@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: hawi74/expert-octo-spork
     backstage.io/adr-location: adrs/
-spec:
+# spec:
   type: other
   lifecycle: unknown
   owner: hawi74
