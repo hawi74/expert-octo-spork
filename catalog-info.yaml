@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: expert-octo-spork
+  title: Expert Octo Spork project
+  description: Just testing
+  annotations:
+    github.com/project-slug: hawi74/expert-octo-spork
+    backstage.io/adr-location: adrs/
