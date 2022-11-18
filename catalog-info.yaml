@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: Componenttt
+kind: Component
 metadata:
   name: expert-octo-spork
   annotations:
